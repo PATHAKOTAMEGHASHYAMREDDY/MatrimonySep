@@ -6,3 +6,4 @@ console.log("HI");
 console.log("HI-Hello");
 console.log("HI-Hello-1");
 console.log("HI-Hello-2");
+console.log("SIMPLE");
